@@ -10,7 +10,7 @@ To get started with the Currency Converter, follow the installation instructions
 First, clone the repository to your local machine using the following command in your terminal:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/annabbabl/Currency-Converter.git
 ```
 
 To build and run the project you should have Qt framework and curl library installed.

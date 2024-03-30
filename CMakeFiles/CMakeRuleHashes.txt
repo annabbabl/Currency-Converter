@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+985fb978be20a3ec0e92bf97b0cd207d CMakeFiles/CurrencyConverter_autogen
+985fb978be20a3ec0e92bf97b0cd207d CMakeFiles/CurrencyConverter_autogen_timestamp_deps
+66af5f15301c61b72a23b74395491ba9 CurrencyConverter_autogen/timestamp

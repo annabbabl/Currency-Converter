@@ -1,0 +1,9 @@
+/Users/I569113/Downloads/Fiverr Currency Converter/CMakeFiles/CurrencyConverter.dir
+/Users/I569113/Downloads/Fiverr Currency Converter/CMakeFiles/edit_cache.dir
+/Users/I569113/Downloads/Fiverr Currency Converter/CMakeFiles/rebuild_cache.dir
+/Users/I569113/Downloads/Fiverr Currency Converter/CMakeFiles/list_install_components.dir
+/Users/I569113/Downloads/Fiverr Currency Converter/CMakeFiles/install.dir
+/Users/I569113/Downloads/Fiverr Currency Converter/CMakeFiles/install/local.dir
+/Users/I569113/Downloads/Fiverr Currency Converter/CMakeFiles/install/strip.dir
+/Users/I569113/Downloads/Fiverr Currency Converter/CMakeFiles/CurrencyConverter_autogen_timestamp_deps.dir
+/Users/I569113/Downloads/Fiverr Currency Converter/CMakeFiles/CurrencyConverter_autogen.dir
